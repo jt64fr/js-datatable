@@ -31,3 +31,20 @@ window.DT_LOCALES["en"] =
 	NOT_ACTIVE: "not active",
 	NO_RESULT: "no result"
 }
+
+window.DT_LOCALES["fr"] =
+{
+	SEARCH: "chercher",
+	PER_PAGE: "lignes par page",
+	SHOWING_TO: "{FROM} à {TO} sur {SIZE}",
+	GOTO_FIRST: "afficher la page 1",
+	GOTO_PREV: "afficher la page précédente",
+	GOTO_PAGE: "afficher la page {NUM}",
+	GOTO_NEXT: "afficher la page suivante",
+	GOTO_LAST: "afficher la dernière page",
+	ASC_ACTIVE: "Tri ascendant actif",
+	DESC_ACTIVE: "Tri déscendant actif",
+	NOT_ACTIVE: "Inactif",
+	NO_RESULT: "Pas de résultat"
+}
+
